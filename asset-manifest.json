@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.0b29abad.chunk.css",
-    "main.js": "/portfolio/static/js/main.9db0cfcf.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.9db0cfcf.chunk.js.map",
+    "main.js": "/portfolio/static/js/main.cffcd560.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.cffcd560.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.a9f76519.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.a9f76519.js.map",
     "static/css/2.74c64b29.chunk.css": "/portfolio/static/css/2.74c64b29.chunk.css",
@@ -13,9 +13,9 @@
     "static/css/main.0b29abad.chunk.css.map": "/portfolio/static/css/main.0b29abad.chunk.css.map",
     "static/js/2.54095ffb.chunk.js.LICENSE.txt": "/portfolio/static/js/2.54095ffb.chunk.js.LICENSE.txt",
     "static/media/1.597fc3f5.jpg": "/portfolio/static/media/1.597fc3f5.jpg",
+    "static/media/1.6d33ece0.jpg": "/portfolio/static/media/1.6d33ece0.jpg",
     "static/media/1.7ad891e8.gif": "/portfolio/static/media/1.7ad891e8.gif",
     "static/media/1.850ebd45.gif": "/portfolio/static/media/1.850ebd45.gif",
-    "static/media/1.ab121365.jpg": "/portfolio/static/media/1.ab121365.jpg",
     "static/media/1.db600ee4.jpg": "/portfolio/static/media/1.db600ee4.jpg",
     "static/media/10.3526ceda.jpg": "/portfolio/static/media/10.3526ceda.jpg",
     "static/media/11.867db355.jpg": "/portfolio/static/media/11.867db355.jpg",
@@ -33,7 +33,7 @@
     "static/media/2.c4ed6662.jpg": "/portfolio/static/media/2.c4ed6662.jpg",
     "static/media/3.4508b5f2.jpg": "/portfolio/static/media/3.4508b5f2.jpg",
     "static/media/3.4821229d.gif": "/portfolio/static/media/3.4821229d.gif",
-    "static/media/3.6d33ece0.jpg": "/portfolio/static/media/3.6d33ece0.jpg",
+    "static/media/3.ab121365.jpg": "/portfolio/static/media/3.ab121365.jpg",
     "static/media/3.d0deedc5.jpg": "/portfolio/static/media/3.d0deedc5.jpg",
     "static/media/3.e3683584.jpg": "/portfolio/static/media/3.e3683584.jpg",
     "static/media/4.1becee30.gif": "/portfolio/static/media/4.1becee30.gif",
@@ -77,6 +77,6 @@
     "static/css/2.74c64b29.chunk.css",
     "static/js/2.54095ffb.chunk.js",
     "static/css/main.0b29abad.chunk.css",
-    "static/js/main.9db0cfcf.chunk.js"
+    "static/js/main.cffcd560.chunk.js"
   ]
 }
